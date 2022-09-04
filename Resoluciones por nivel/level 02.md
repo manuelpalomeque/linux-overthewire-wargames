@@ -12,4 +12,7 @@ The password for the next level is stored in a file called - located in the home
     -rw-r--r--  1 root    root     807 Jan  6  2022 .profile
     bandit1@bandit:~$ cat ./-
     rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
-    bandit1@bandit:~$ 
+    bandit1@bandit:~$ exit
+    logout
+    Connection to bandit.labs.overthewire.org closed.
+

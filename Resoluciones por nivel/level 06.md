@@ -17,12 +17,15 @@ not executable
     logout
     Connection to bandit.labs.overthewire.org closed.
 
-Solucion mas eficaz:
+otra opcion de busqueda:
 
-    bandit5@bandit:~/inhere$ find -size 1033c -and  ! -executable -and -readeable
-    find: unknown predicate `-readeable'
     bandit5@bandit:~/inhere$ find -size 1033c -and  ! -executable -and -readable
     ./maybehere07/.file2
     bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
     P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             bandit5@bandit:~/inhere$ 
+Solucion mas eficaz:
+
+    bandit5@bandit:~/inhere$ find -size 1033c ! -executable -readable; cat ./maybehere07/.file2
+    ./maybehere07/.file2
+    P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU

@@ -5,15 +5,15 @@ En este repositorio  y mediante la plataforma <b>OvertTheWire</b>, estoy jugando
 En donde se presentan una serie de desafios sobre Linux, en los cuales, encontre cada bandera para poder acceder al siguiente nivel!</p>
 
 <ul>
-<li> level 0: ✅</li>
-<li> level 1: ✅</li>
-<li> level 2: ✅</li>
-<li> level 3: ✅</li>
-<li> level 4: ✅</li>
-<li> level 5: ✅</li>
-<li> level 6: ✅</li>
-<li> level 7: ✅</li>
-<li> level 8: 🟪</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2000.md"> level 0:</a> ✅</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2001.md"> level 1:</a> ✅</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2002.md"> level 2:</a> ✅</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2003.md"> level 3:</a> ✅</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2004.md"> level 4:</a> ✅</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2005.md"> level 5:</a> ✅</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2006.md"> level 6:</a> ✅</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2007.md"> level 7:</a> ✅</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2008.md"> level 8:</a> ✅</li>
 <li> level 9: 🟪</li>
 <li> level 10: 🟪</li>
 <li> level 11: 🟪</li>

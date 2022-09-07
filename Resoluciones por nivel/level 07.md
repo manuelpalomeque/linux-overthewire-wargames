@@ -52,3 +52,10 @@ otro camino:
     bandit6@bandit:/$ cat ./var/lib/dpkg/info/bandit7.password
     z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 
+solucion mas eficaz:
+
+    bandit6@bandit:/$ find -size 33c -user 11007 -group 11006 2>/dev/null
+    ./var/lib/dpkg/info/bandit7.password
+    bandit6@bandit:/$ cat ./var/lib/dpkg/info/bandit7.password
+    z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+    bandit6@bandit:/$ 

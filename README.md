@@ -12,7 +12,7 @@ En donde se presentan una serie de desafios sobre Linux, en los cuales, encontre
 <li> level 4: ✅</li>
 <li> level 5: ✅</li>
 <li> level 6: ✅</li>
-<li> level 7: 🟪</li>
+<li> level 7: ✅</li>
 <li> level 8: 🟪</li>
 <li> level 9: 🟪</li>
 <li> level 10: 🟪</li>

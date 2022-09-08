@@ -15,7 +15,7 @@ En donde se presentan una serie de desafios sobre Linux, en los cuales, encontre
 <li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2007.md"> level 7:</a> ✅</li>
 <li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2008.md"> level 8:</a> ✅</li>
 <li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2009.md"> level 9:</a> ✅</li>
-<li> level 10: 🟪</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2010.md"> level 10:</a> ✅</li>
 <li> level 11: 🟪</li>
 <li> level 12: 🟪</li>
 <li> level 13: 🟪</li>

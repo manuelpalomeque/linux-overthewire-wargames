@@ -1,7 +1,7 @@
 # CTF en Linux! 🚩🚩🐧
 
 <p>Hola! </br>
-En este repositorio  y mediante la plataforma <b>OvertTheWire</b>, estoy jugando a sus CTF ➡️ <b>WarGames</b>!🚩</br>
+En este repositorio  y mediante la plataforma <a href="https://overthewire.org/wargames/bandit/"><b>OvertTheWire</b></a>, estoy jugando a sus CTF ➡️ <b>WarGames</b>!🚩</br>
 En donde se presentan una serie de desafios sobre Linux, en los cuales, encontre cada bandera para poder acceder al siguiente nivel!</p>
 
 <ul>
@@ -14,7 +14,7 @@ En donde se presentan una serie de desafios sobre Linux, en los cuales, encontre
 <li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2006.md"> level 6:</a> ✅</li>
 <li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2007.md"> level 7:</a> ✅</li>
 <li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2008.md"> level 8:</a> ✅</li>
-<li> level 9: 🟪</li>
+<li><a href="https://github.com/manuelpalomeque/linux-overthewire-wargames/blob/main/Resoluciones%20por%20nivel/level%2009.md"> level 9:</a> ✅</li>
 <li> level 10: 🟪</li>
 <li> level 11: 🟪</li>
 <li> level 12: 🟪</li>
